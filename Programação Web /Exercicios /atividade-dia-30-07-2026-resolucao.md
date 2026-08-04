@@ -29,3 +29,5 @@
 
 <p>O WAI-ARIA não substitui o HTML semântico porque os elementos nativos já trazem comportamentos, estados e funções embutidos para acessibilidade, enquanto o ARIA apenas adiciona informações extras; usá-lo em vez de HTML semântico pode gerar inconsistências e falhas em leitores de tela.
 Uma situação necessária é quando se cria um componente personalizado, como um <strong>slider</strong> ou menu suspenso feito com <strong>div</strong> e JavaScript, que não possui equivalentes semânticos nativos; nesse caso, usamos <strong>role="slider"</strong>, <strong>aria-valuenow</strong> e aria-expanded<strong>aria-expanded</strong> para transmitir função, estado e interatividade que o HTML puro não oferece.</p>
+
+Feito por: Daniel Mizael e João Paulo
